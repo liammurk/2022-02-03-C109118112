@@ -52,7 +52,7 @@ gantt
     25天:a11,after a9, 25d
 ```
 
-```graphviz
+```
 digraph {
 	node[shape=record];
 	rankdir="LR";

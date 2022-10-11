@@ -52,8 +52,8 @@ gantt
     25天:a11,after a9, 25d
 ```
 
-# CPM圖
-![path](cpm.png)
+# pert圖
+![path](pert.png)
 ***
 
 ```graphviz

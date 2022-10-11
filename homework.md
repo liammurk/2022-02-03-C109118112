@@ -53,7 +53,7 @@ gantt
 ```
 
 # CPM圖
-![path](CPM.png)
+![path](cpm.png)
 ***
 
 ```graphviz
